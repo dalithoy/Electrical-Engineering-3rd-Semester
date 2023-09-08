@@ -1,6 +1,6 @@
 # Electrical-Engineering-Third-Sem
 
-Electrical Engineering. Third Sem. IIT Dharwad. 
+Electrical Engineering 3rd Semester. IIT Dharwad. 
 
 
 # Tips
